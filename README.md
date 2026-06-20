@@ -2,7 +2,7 @@
 
 **`AO ALTO E AVANTE`**
 
-Me Kaio Breno Martins da Sila, tenho 18 anos e sou natural de Maceió/AL. Concluí o ensino médio no IFAL, com o curso técnico em logística. Sou puxado por tecnologia por ser bem curioso e gostar de criar. E com programação acredito que possa fazer tudo que quero e também conseguir melhorar minhas abilidades.
+Me chamo Kaio Breno Martins da Sila, tenho 18 anos e sou natural de Maceió/AL. Concluí o ensino médio no IFAL, com o curso técnico em logística. Sou puxado por tecnologia por ser bem curioso e gostar de criar. E com programação acredito que possa fazer tudo que quero e também conseguir melhorar minhas abilidades.
 
 ---
 
