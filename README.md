@@ -35,7 +35,7 @@ Me chamo Kaio Breno Martins da Sila, tenho 18 anos e sou natural de Maceió/AL. 
 
 <br/>
 <br/>
-
+<!--
 ### 📊 Estatísticas
 
 <p>
@@ -55,4 +55,4 @@ Me chamo Kaio Breno Martins da Sila, tenho 18 anos e sou natural de Maceió/AL. 
   />
 
 </p>
-
+-->
